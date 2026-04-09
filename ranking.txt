@@ -1,0 +1,4 @@
+Matheus;450
+d;120
+Jogador;50
+Matheus;0
